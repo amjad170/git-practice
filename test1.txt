@@ -1,2 +1,2 @@
 This is  line Number 1
-This is  line Number 2 future1
+This is  line Number 2 conflict
